@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "ProfilePhoto": "https://variety.com/wp-content/uploads/2013/04/ironman3_tonystark.jpg?w=1000&h=667&crop=1",
+    "name": "Tony Stark",
+    "nickName": "iamironman",
+    "tweet": "I've Successfully Privatized World Peace.",
+    "time": "11:24 PM",
+    "date": "Feb 12, 2019",
+    "comment": "2,345",
+    "retweet": "10.5K",
+    "like": "876.3K",
+    "saved": "59"
+  },
+  {
+    "id": 2,
+    "ProfilePhoto": "https://img-s1.onedio.com/id-648eaf700af24555d66c954d/rev-0/w-600/h-450/f-jpg/s-29ed8062cbc800cd8b33c410f7d990dc1ed65f9f.jpg",
+    "name": "Ersoy",
+    "nickName": "ErsoyGibi",
+    "tweet": "You know we lost our belief in the returns of our efforts without discrimination of people, moreover we stacked in the middle of the river with tiredness of not being able to benefit from those we know as friends.",
+    "time": "6:24 AM",
+    "date": "Jun 12, 2023",
+    "comment": "4,488",
+    "retweet": "35.12K",
+    "like": "2.1M",
+    "saved": "623"
+  },
+  {
+    "id": 3,
+    "ProfilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxyOR9Nz7NS8xw2DTvcqEGuhbMGHe6WzoFabWxkbZLqw&s",
+    "name": "Yoda",
+    "nickName": "WadeWilson",
+    "tweet": "Train yourself to let go of everything you fear to lose.",
+    "time": "6:12 AM",
+    "date": "Mar 5, 2020",
+    "comment": "3,456",
+    "retweet": "25.8K",
+    "like": "1.2M",
+    "saved": "102"
+  },
+  {
+    "id": 4,
+    "ProfilePhoto": "https://pbs.twimg.com/profile_images/1624456601/319441_261624273858993_261623853859035_925635_7813707_n_400x400.jpg",
+    "name": "Bihter Ziyagil",
+    "nickName": "BihterYöreoglu",
+    "tweet": "Of course, you strongly against woman who you suppose insufficient in every respect to be mother to the children entrusted to by their moms!",
+    "time": "10:44 PM",
+    "date": "Oct 21, 2011",
+    "comment": "3,244",
+    "retweet": "12.8K",
+    "like": "1.2M",
+    "saved": "855"
+  },
+  {
+    "id": 5,
+    "ProfilePhoto": "https://www.tablohane.com/img/blogKapak/kapak-Deadpool.jpg",
+    "name": "Deadpool",
+    "nickName": "WadeWilson",
+    "tweet": "There’s no easy way to say this… I’m pregnant, Trevor!.",
+    "time": "9:42 PM",
+    "date": "Jun 17, 2021",
+    "comment": "5,678",
+    "retweet": "37.2K",
+    "like": "2.5M",
+    "saved": "208"
+  },
+  {
+    "id": 6,
+    "ProfilePhoto": "https://sm.ign.com/t/ign_tr/news/i/i-am-groot/i-am-groot-is-returning-for-a-second-season-on-disney-this-s_yj9w.1280.jpg",
+    "name": "Groot",
+    "nickName": "iamgroot",
+    "tweet": "I am groot",
+    "time": "4:30 PM",
+    "date": "Sep 9, 2022",
+    "comment": "7,891",
+    "retweet": "50.1K",
+    "like": "4.3M",
+    "saved": "405"
+  },
+  {
+    "id": 7,
+    "ProfilePhoto": "https://img-s2.onedio.com/id-626188cfedc39ff02511d151/rev-0/w-600/h-338/f-jpg/s-c98f998168636f950294eebe0091cf34c988d1d9.jpg",
+    "name": "Yılmaz",
+    "nickName": "gibiYılmaz",
+    "tweet": "My request, if you don't evaluate me about what I evaluate and what I don't evaluate, I will be happy about this. Moreover, My pleasures doesn't have to be on a reasonable backdrop in your eyes.",
+    "time": "5:34 PM",
+    "date": "Mar 24, 2024",
+    "comment": "7,891",
+    "retweet": "14.8K",
+    "like": "8.2M",
+    "saved": "865"
+  }
+]
+  
