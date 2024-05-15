@@ -1,0 +1,52 @@
+[
+  {
+      "id": 0,
+      "name": "Çöpler Atılacak",
+      "completed": 1
+  },
+  {
+      "id": 1,
+      "name": "Fatura Ödenecek",
+      "completed": 0
+  },
+  {
+      "id": 2,
+      "name": "Kitap Okunacak",
+      "completed": 1
+  },
+  {
+      "id": 3,
+      "name": "Alışveriş Yapılacak",
+      "completed": 1
+  },
+  {
+      "id": 4,
+      "name": "Spor Yapılacak",
+      "completed": 0
+  },
+  {
+      "id": 5,
+      "name": "Ders Çalışılacak",
+      "completed": 1
+  },
+  {
+      "id": 6,
+      "name": "Film İzlenecek",
+      "completed": 0
+  },
+  {
+      "id": 7,
+      "name": "Ev Temizlenecek",
+      "completed": 1
+  },
+  {
+      "id": 8,
+      "name": "Yemek Yapılacak",
+      "completed": 0
+  },
+  {
+      "id": 9,
+      "name": "Arkadaş Aranacak",
+      "completed": 0
+  }
+]
