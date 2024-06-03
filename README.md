@@ -26,10 +26,8 @@
 
 4.Project - ToDoApp
   It was made to be an example of the useState structure.
-  ![Screenshot_1715278387](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/03f9e6ed-7d90-4b9b-ac38-f30fa0a81fe5)
-  ![Screenshot_1715278400](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/8df68ff7-7b7c-4f5a-9557-98ee78f8a656)
-  ![Screenshot_1715278431](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/5db670dd-8a8a-482e-a2f0-0b37d1085c0f)
-  ![Screenshot_1715278442](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/a6580d87-e51b-4e13-b7c0-44599b32e6ba)
+  ![331192773-03f9e6ed-7d90-4b9b-ac38-f30fa0a81fe5](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/d6eabf3e-80a4-4d30-9eea-b7758baac937)
+
 
 
 
