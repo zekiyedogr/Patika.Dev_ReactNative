@@ -17,7 +17,8 @@
 
 
 3.Project - MusicApp
-  ![Uploading 330909431-b4595b04-6b11-4d4c-8dc5-b96fb8485b20.png…]()
+  ![330909431-b4595b04-6b11-4d4c-8dc5-b96fb8485b20](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/232e2092-ec9c-472c-b245-ad3826dcf7b3)
+
 
 
 
