@@ -2,7 +2,8 @@
 
 1.Project - Twitter Screen
   It was made to be an example of the FlatList structure.
-  ![Screenshot_1715794326](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/de2bb0b2-02b1-442e-b90c-29999e15a1d4) ![Screenshot_1715798697](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/fbff90b7-b04d-418a-addc-dbdb762d2da9)
+  ![330905230-de2bb0b2-02b1-442e-b90c-29999e15a1d4](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/1dc5e8c9-67c8-4ec8-8332-a3835c8b1c24)
+
 
 
 
