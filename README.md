@@ -34,12 +34,8 @@
 
 5.Project - ReactNavigation
   It was made to be an example of the React Navigation structure. I used Stack Navigator and Tab Navigator in this work.
-  ![Screenshot_1715797635](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/b6707433-98d7-44a8-99f6-61cf388830b0)
-  ![Screenshot_1715797656](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/1ff290cd-11e5-456f-95ae-e992bebc5e78)
-  ![Screenshot_1715797682](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/a035489f-d1c5-4c22-93d0-1dbac58ec715)
-  ![Screenshot_1715797696](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/53c091de-359d-41d6-96c1-df3c7d1a9a47)
-  ![Screenshot_1715797704](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/2790563b-d566-4807-a3cc-bfcab6580ff6)
-  ![Screenshot_1715797730](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/c0a34d1e-7017-4f73-8f01-9724483802e1)
+  ![330922279-b6707433-98d7-44a8-99f6-61cf388830b0](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/2f1f1ef0-f393-4f4b-923b-d69f70f47839)
+
 
 
 
