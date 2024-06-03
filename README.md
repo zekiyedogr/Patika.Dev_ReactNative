@@ -54,6 +54,14 @@
   ![Screenshot_1717283793](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/c943ff3d-8c71-4f29-8cae-c29d4b0c9fb0)
 
 
+6.Project - Table Secrets
+  ![Screenshot_1717447021](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/71024abe-1024-4cd3-943c-0ecdf853a726)
+  ![Screenshot_1717447026](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/1b27ff4d-7c45-4c05-9245-4a7a229cbd4c)
+  ![Screenshot_1717447034](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/c0a62194-7365-4520-848f-91d9ab948e7e)
+  ![Screenshot_1717447041](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/f8b8193d-3700-44fb-bfe1-29cd07c95b63)
+  ![Screenshot_1717447062](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/26889d87-15ab-422b-8d16-a32536f0a253)
+  ![Screenshot_1717447372](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/8139f2a3-1e6c-441d-b530-12a912648228)
+  ![Screenshot_1717447088](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/ec2ef812-5daa-40c1-ae7a-3fbc8c308f4d)
 
 
 
