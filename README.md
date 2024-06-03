@@ -10,8 +10,8 @@
 
 2.Project - PatikaStore
   It was done as an end of chapter homework to serve as an example of the FlatList structure.
-  ![Screenshot_1715108672](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/5aaf0a6a-2329-4524-becf-42cf661b8a19)
-  ![Screenshot_1715108756](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/10fa399a-01a0-4423-b0ac-01c974111ccd)
+  ![330907080-5aaf0a6a-2329-4524-becf-42cf661b8a19](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/131e7eb7-d7de-4edb-86fd-89f84d12a369)
+
 
 
 
