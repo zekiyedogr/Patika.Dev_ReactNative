@@ -42,12 +42,8 @@
 
 5.Project - Dükkan
   It was made to be an example of the Web API structure. I used Web API, Stack Navigator, lottie pack and custom hook structure in this work.
-  ![Screenshot_1717282826](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/a64cd0fb-297c-4d45-b491-b324298feae6)
-  ![Screenshot_1717283711](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/0811523c-fd60-4dcd-809f-1a0b358c492f)
-  ![Screenshot_1717283995](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/3e043988-05b3-4ab9-a0ee-7dfd89b74403)
-  ![Screenshot_1717283752](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/bb8fde6b-e731-4a5b-8efc-5b98590aa077)
-  ![Screenshot_1717283764](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/c07d14aa-ff79-4b4c-9b92-b7f9906e7749)
-  ![Screenshot_1717283793](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/c943ff3d-8c71-4f29-8cae-c29d4b0c9fb0)
+  ![335831678-a64cd0fb-297c-4d45-b491-b324298feae6](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/155a8597-d652-4758-af24-7edd2b34c86b)
+
 
 
 6.Project - Table Secrets
