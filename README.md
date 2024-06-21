@@ -51,7 +51,9 @@
 >
 5.Project - Dükkan
   It was made to be an example of the Web API structure. I used Web API, Stack Navigator, lottie pack and custom hook structure in this work.
-  ![335831678-a64cd0fb-297c-4d45-b491-b324298feae6](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/155a8597-d652-4758-af24-7edd2b34c86b)
+  ![Screenshot_1718983473](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/ae846354-ecd0-4ecb-a762-f751a9f9c36b)
+  ![Screenshot_1718983535](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/f5b0df3e-6b16-48cb-a1da-5697afdc7969)
+
 >
 >
 >
