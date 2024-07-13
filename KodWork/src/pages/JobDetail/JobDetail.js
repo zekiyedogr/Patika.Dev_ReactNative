@@ -14,8 +14,8 @@ import Button from "../../components/Button";
 
 const Detail = ({route}) => {
     const { text } = route.params;
-    const API_URL = 'https://www.themuse.com/api/public/jobs';
-    const { loading, data, error } = useFetch(API_URL + '/' + text);
+    const API_URL = Config.API_URL + 'jobs/' + text;
+    const { loading, data, error } = useFetch(API_URL);
     const { width } = useWindowDimensions();    
     const dispatch = useDispatch();
     const favoriteJobs = useSelector(state => state.favoriteList);
