@@ -65,6 +65,17 @@
   ![Screenshot_171744702](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/36e15f86-b1c1-45ee-99ca-a1d907df586e)
   ![Screenshot_1717447](https://github.com/zekiyedogr/Patika.Dev_ReactNative/assets/72526615/6d934033-a93c-434a-a483-c16c464ae735)
 
+>
+>
+>
+>
+>
+>
+>
+7.Project - KodWork
+![2](https://github.com/user-attachments/assets/4f0cf501-7891-4f04-9082-2c233492f4c3)
+
+
 
 
 
