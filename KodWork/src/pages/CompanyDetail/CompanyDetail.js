@@ -14,8 +14,8 @@ import Button from "../../components/Button";
 
 const Detail = ({navigation, route}) => {
     const { text } = route.params;
-    const API_URL = 'https://www.themuse.com/api/public/companies';
-    const { loading, data, error } = useFetch(API_URL + '/' + text);
+    const API_URL = Config.API_URL + 'companies/' + text;
+    const { loading, data, error } = useFetch(API_URL);
     const { width } = useWindowDimensions();    
     const dispatch = useDispatch();
     const favoriteCompanies = useSelector(state => state.favoriteCompanyList);
