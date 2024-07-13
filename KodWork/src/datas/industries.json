@@ -1,0 +1,171 @@
+[
+    {
+      "id": 0,
+      "name": "Accounting"
+    },
+    {
+      "id": 1,
+      "name": "Advertising and Agencies"
+    },
+    {
+      "id": 2,
+      "name": "Architecture"
+    },
+    {
+      "id": 3,
+      "name": "Arts & Music"
+    },
+    {
+      "id": 4,
+      "name": "Biotechnology"
+    },
+    {
+      "id": 5,
+      "name": "Blockchain"
+    },
+    {
+      "id": 6,
+      "name": "Client Services"
+    },
+    {
+      "id": 7,
+      "name": "Consulting"
+    },
+    {
+      "id": 8,
+      "name": "Consumer Goods & Services"
+    },
+    {
+      "id": 9,
+      "name": "Data Science"
+    },
+    {
+      "id": 10,
+      "name": "Education"
+    },
+    {
+      "id": 11,
+      "name": "Energy"
+    },
+    {
+      "id": 12,
+      "name": "Engineering"
+    },
+    {
+      "id": 13,
+      "name": "Entertainment & Gaming"
+    },
+    {
+      "id": 14,
+      "name": "Fashion & Beauty"
+    },
+    {
+      "id": 15,
+      "name": "Financial Services"
+    },
+    {
+      "id": 16,
+      "name": "Fintech"
+    },
+    {
+      "id": 17,
+      "name": "Fitness & Wellness"
+    },
+    {
+      "id": 18,
+      "name": "Food & Beverage"
+    },
+    {
+      "id": 19,
+      "name": "Government"
+    },
+    {
+      "id": 20,
+      "name": "Healthcare"
+    },
+    {
+      "id": 21,
+      "name": "Healthtech"
+    },
+    {
+      "id": 22,
+      "name": "Information Technology"
+    },
+    {
+      "id": 23,
+      "name": "Insurance"
+    },
+    {
+      "id": 24,
+      "name": "Law"
+    },
+    {
+      "id": 25,
+      "name": "Manufacturing"
+    },
+    {
+      "id": 26,
+      "name": "Marketing"
+    },
+    {
+      "id": 27,
+      "name": "Media"
+    },
+    {
+      "id": 28,
+      "name": "Mortgage"
+    },
+    {
+      "id": 29,
+      "name": "Non-Profit"
+    },
+    {
+      "id": 30,
+      "name": "Pharmaceutical"
+    },
+    {
+      "id": 31,
+      "name": "Public Relations & Communications"
+    },
+    {
+      "id": 32,
+      "name": "Real Estate & Construction"
+    },
+    {
+      "id": 33,
+      "name": "Retail"
+    },
+    {
+      "id": 34,
+      "name": "Social Good"
+    },
+    {
+      "id": 35,
+      "name": "Social Media"
+    },
+    {
+      "id": 36,
+      "name": "Software"
+    },
+    {
+      "id": 37,
+      "name": "Technology"
+    },
+    {
+      "id": 38,
+      "name": "Telecom"
+    },
+    {
+      "id": 39,
+      "name": "Trading"
+    },
+    {
+      "id": 40,
+      "name": "Travel and Hospitality"
+    },
+    {
+      "id": 41,
+      "name": "Veterinary"
+    }
+  ]
+  

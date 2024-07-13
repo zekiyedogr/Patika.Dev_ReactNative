@@ -1,0 +1,247 @@
+[
+    {
+      "id": 0,
+      "name": "Accounting"
+    },
+    {
+      "id": 1,
+      "name": "Accounting and Finance"
+    },
+    {
+      "id": 2,
+      "name": "Account Management"
+    },
+    {
+      "id": 3,
+      "name": "Account Management/Customer Success"
+    },
+    {
+      "id": 4,
+      "name": "Administration and Office"
+    },
+    {
+      "id": 5,
+      "name": "Advertising and Marketing"
+    },
+    {
+      "id": 6,
+      "name": "Animal Care"
+    },
+    {
+      "id": 7,
+      "name": "Arts"
+    },
+    {
+      "id": 8,
+      "name": "Business Operations"
+    },
+    {
+      "id": 9,
+      "name": "Cleaning and Facilities"
+    },
+    {
+      "id": 10,
+      "name": "Computer and IT"
+    },
+    {
+      "id": 11,
+      "name": "Construction"
+    },
+    {
+      "id": 12,
+      "name": "Corporate"
+    },
+    {
+      "id": 13,
+      "name": "Customer Service"
+    },
+    {
+      "id": 14,
+      "name": "Data and Analytics"
+    },
+    {
+      "id": 15,
+      "name": "Data Science"
+    },
+    {
+      "id": 16,
+      "name": "Design"
+    },
+    {
+      "id": 17,
+      "name": "Design and UX"
+    },
+    {
+      "id": 18,
+      "name": "Editor"
+    },
+    {
+      "id": 19,
+      "name": "Education"
+    },
+    {
+      "id": 20,
+      "name": "Energy Generation and Mining"
+    },
+    {
+      "id": 21,
+      "name": "Entertainment and Travel Services"
+    },
+    {
+      "id": 22,
+      "name": "Farming and Outdoors"
+    },
+    {
+      "id": 23,
+      "name": "Food and Hospitality Services"
+    },
+    {
+      "id": 24,
+      "name": "Healthcare"
+    },
+    {
+      "id": 25,
+      "name": "HR"
+    },
+    {
+      "id": 26,
+      "name": "Human Resources and Recruitment"
+    },
+    {
+      "id": 27,
+      "name": "Installation, Maintenance, and Repairs"
+    },
+    {
+      "id": 28,
+      "name": "IT"
+    },
+    {
+      "id": 29,
+      "name": "Law"
+    },
+    {
+      "id": 30,
+      "name": "Legal Services"
+    },
+    {
+      "id": 31,
+      "name": "Management"
+    },
+    {
+      "id": 32,
+      "name": "Manufacturing and Warehouse"
+    },
+    {
+      "id": 33,
+      "name": "Marketing"
+    },
+    {
+      "id": 34,
+      "name": "Mechanic"
+    },
+    {
+      "id": 35,
+      "name": "Media, PR, and Communications"
+    },
+    {
+      "id": 36,
+      "name": "Mental Health"
+    },
+    {
+      "id": 37,
+      "name": "Nurses"
+    },
+    {
+      "id": 38,
+      "name": "Office Administration"
+    },
+    {
+      "id": 39,
+      "name": "Personal Care and Services"
+    },
+    {
+      "id": 40,
+      "name": "Physical Assistant"
+    },
+    {
+      "id": 41,
+      "name": "Product"
+    },
+    {
+      "id": 42,
+      "name": "Product Management"
+    },
+    {
+      "id": 43,
+      "name": "Project Management"
+    },
+    {
+      "id": 44,
+      "name": "Protective Services"
+    },
+    {
+      "id": 45,
+      "name": "Public Relations"
+    },
+    {
+      "id": 46,
+      "name": "Real Estate"
+    },
+    {
+      "id": 47,
+      "name": "Recruiting"
+    },
+    {
+      "id": 48,
+      "name": "Retail"
+    },
+    {
+      "id": 49,
+      "name": "Sales"
+    },
+    {
+      "id": 50,
+      "name": "Science and Engineering"
+    },
+    {
+      "id": 51,
+      "name": "Social Services"
+    },
+    {
+      "id": 52,
+      "name": "Software Engineer"
+    },
+    {
+      "id": 53,
+      "name": "Software Engineering"
+    },
+    {
+      "id": 54,
+      "name": "Sports, Fitness, and Recreation"
+    },
+    {
+      "id": 55,
+      "name": "Transportation and Logistics"
+    },
+    {
+      "id": 56,
+      "name": "Unknown"
+    },
+    {
+      "id": 57,
+      "name": "UX"
+    },
+    {
+      "id": 58,
+      "name": "Videography"
+    },
+    {
+      "id": 59,
+      "name": "Writer"
+    },
+    {
+      "id": 60,
+      "name": "Writing and Editing"
+    }
+  ]
+  
