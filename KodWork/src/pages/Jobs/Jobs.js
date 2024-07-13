@@ -13,7 +13,7 @@ import Loading from "../../components/Loading";
 const Jobs = ({navigation, route}) => {
     const [page, setPage] = useState(1);
     const [tempPage, setTempPage] = useState("1");
-    const API_URL = 'https://www.themuse.com/api/public/jobs?page=';
+    const API_URL = Config.API_URL + 'jobs?page=';
     const [filterModalVisible, setFilterModalVisible] = useState(false);
     const [filterUrl, setFilterUrl] = useState('');
     const [company, setCompany] = useState('');
