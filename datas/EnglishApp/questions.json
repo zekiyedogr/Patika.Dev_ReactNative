@@ -540,9 +540,9 @@
             {
             "id": 6,
             "sentence": [
-                { "word": "He", "answer": "does he", "mean": "o", "index": 0 },
+                { "word": "He", "answer": "Does he", "mean": "o", "index": 0 },
                 { "word": "usually", "answer": "", "mean": "genellikle", "index": 1 },
-                { "word": "eat", "answer": "", "mean": "yemek", "index": 2 },
+                { "word": "have", "answer": "have", "mean": "yapmak", "index": 2 },
                 { "word": "breakfast", "answer": "", "mean": "kahvaltı", "index": 3 },
                 { "word": "at", "answer": "", "mean": "de", "index": 4 },
                 { "word": "7 am", "answer": "", "mean": "saat 7'de", "index": 5 },
@@ -553,12 +553,11 @@
             {
             "id": 7,
             "sentence": [
-                { "word": "Does", "answer": "", "mean": "Yapar mı", "index": 0 },
-                { "word": "he", "answer": "", "mean": "o", "index": 1 },
-                { "word": "drive", "answer": "", "mean": "sürmek", "index": 2 },
-                { "word": "to", "answer": "", "mean": "ile", "index": 3 },
-                { "word": "work", "answer": "", "mean": "iş", "index": 4 },
-                { "word": "every day", "answer": "", "mean": "her gün", "index": 5 },
+                { "word": "She", "answer": "Does she", "mean": "Yapar mı", "index": 0 },
+                { "word": "drive", "answer": "", "mean": "sürmek", "index": 1 },
+                { "word": "to", "answer": "", "mean": "ile", "index": 2 },
+                { "word": "work", "answer": "", "mean": "iş", "index": 3 },
+                { "word": "every day", "answer": "", "mean": "her gün", "index": 4 },
                 { "word": "?", "answer": "", "index": 6 }
             ],
             "subject": ["simple_present"]
@@ -566,12 +565,10 @@
             {
             "id": 8,
             "sentence": [
-                { "word": "Are", "answer": "Are", "mean": "mı", "index": 0 },
-                { "word": "they", "answer": "they", "mean": "onlar", "index": 1 },
+                { "word": "They", "answer": "They are", "mean": "mı", "index": 0 },
                 { "word": "studying", "answer": "studying", "mean": "ders çalışmak", "index": 2 },
-                { "word": "at", "answer": "", "mean": "de", "index": 3 },
-                { "word": "the library", "answer": "", "mean": "kütüphane", "index": 4 },
-                { "word": "?", "answer": "", "index": 5 }
+                { "word": "in", "answer": "", "mean": "de", "index": 3 },
+                { "word": "the library", "answer": "", "mean": "kütüphane", "index": 4 }
             ],
             "subject": ["present_continuous"]
             },
@@ -580,46 +577,41 @@
             "sentence": [
                 { "word": "What", "answer": "", "mean": "Ne", "index": 0 },
                 { "word": "time", "answer": "", "mean": "zaman", "index": 1 },
-                { "word": "do", "answer": "", "mean": "yapar", "index": 2 },
-                { "word": "they", "answer": "", "mean": "onlar", "index": 3 },
-                { "word": "usually", "answer": "", "mean": "genellikle", "index": 4 },
-                { "word": "get up", "answer": "", "mean": "kalkmak", "index": 5 },
-                { "word": "?", "answer": "", "index": 6 }
+                { "word": "they", "answer": "do they", "mean": "onlar yapar", "index": 2 },
+                { "word": "usually", "answer": "", "mean": "genellikle", "index": 3 },
+                { "word": "get up", "answer": "", "mean": "kalkmak", "index": 4 },
+                { "word": "?", "answer": "", "index": 5 }
             ],
             "subject": ["simple_present"]
             },
             {
             "id": 10,
             "sentence": [
-                { "word": "Does", "answer": "", "mean": "Yapar mı", "index": 0 },
-                { "word": "she", "answer": "", "mean": "o", "index": 1 },
-                { "word": "like", "answer": "", "mean": "sevmek", "index": 2 },
-                { "word": "to read", "answer": "", "mean": "okumak", "index": 3 },
-                { "word": "novels", "answer": "", "mean": "romanlar", "index": 4 },
-                { "word": "?", "answer": "", "index": 5 }
+                { "word": "She", "answer": "Does she", "mean": " O yapar mı", "index": 0 },
+                { "word": "like", "answer": "like", "mean": "sevmek", "index": 1 },
+                { "word": "reading", "answer": "", "mean": "okumak", "index": 2 },
+                { "word": "novels", "answer": "", "mean": "romanlar", "index": 3 },
+                { "word": "?", "answer": "", "index": 4 }
             ],
             "subject": ["simple_present"]
             },
             {
             "id": 11,
             "sentence": [
-                { "word": "Is", "answer": "", "mean": "mı", "index": 0 },
-                { "word": "he", "answer": "he", "mean": "o", "index": 1 },
-                { "word": "taking", "answer": "taking", "mean": "almak", "index": 2 },
-                { "word": "an", "answer": "", "mean": "bir", "index": 3 },
-                { "word": "umbrella", "answer": "", "mean": "şemsiye", "index": 4 },
-                { "word": "to work", "answer": "", "mean": "işe", "index": 5 },
-                { "word": "?", "answer": "", "index": 6 }
+                { "word": "He", "answer": "He is", "mean": "O", "index": 0 },
+                { "word": "take", "answer": "taking", "mean": "almak", "index": 1 },
+                { "word": "an", "answer": "", "mean": "bir", "index": 2 },
+                { "word": "umbrella", "answer": "", "mean": "şemsiye", "index": 3 },
+                { "word": "to work", "answer": "", "mean": "işe", "index": 4 }
             ],
             "subject": ["present_continuous"]
             },
             {
             "id": 12,
             "sentence": [
-                { "word": "Do", "answer": "", "mean": "Yapar mı", "index": 0 },
-                { "word": "they", "answer": "", "mean": "onlar", "index": 1 },
+                { "word": "They", "answer": "Do they", "mean": "Onlar yapar mı", "index": 0 },
                 { "word": "usually", "answer": "", "mean": "genellikle", "index": 2 },
-                { "word": "play", "answer": "", "mean": "oynamak", "index": 3 },
+                { "word": "play", "answer": "play", "mean": "oynamak", "index": 3 },
                 { "word": "tennis", "answer": "", "mean": "tenis", "index": 4 },
                 { "word": "on Sundays", "answer": "", "mean": "Pazar günleri", "index": 5 },
                 { "word": "?", "answer": "", "index": 6 }
@@ -630,10 +622,9 @@
             "id": 13,
             "sentence": [
                 { "word": "When", "answer": "", "mean": "Ne zaman", "index": 0 },
-                { "word": "do", "answer": "", "mean": "yapar", "index": 1 },
-                { "word": "you", "answer": "", "mean": "sen", "index": 2 },
+                { "word": "you", "answer": "do you", "mean": "sen", "index": 2 },
                 { "word": "usually", "answer": "", "mean": "genellikle", "index": 3 },
-                { "word": "take", "answer": "", "mean": "almak", "index": 4 },
+                { "word": "take", "answer": "take", "mean": "almak", "index": 4 },
                 { "word": "a break", "answer": "", "mean": "ara vermek", "index": 5 },
                 { "word": "?", "answer": "", "index": 6 }
             ],
@@ -642,13 +633,11 @@
             {
             "id": 14,
             "sentence": [
-                { "word": "Are", "answer": "Are", "mean": "mı", "index": 0 },
-                { "word": "they", "answer": "they", "mean": "onlar", "index": 1 },
-                { "word": "going", "answer": "going", "mean": "gitmek", "index": 2 },
-                { "word": "to", "answer": "", "mean": "ile", "index": 3 },
-                { "word": "the movies", "answer": "", "mean": "sinema", "index": 4 },
-                { "word": "tonight", "answer": "", "mean": "bu akşam", "index": 5 },
-                { "word": "?", "answer": "", "index": 6 }
+                { "word": "They", "answer": "They are", "mean": "Onlar", "index": 0 },
+                { "word": "go", "answer": "going", "mean": "gitmek", "index": 1 },
+                { "word": "to", "answer": "", "mean": "ile", "index": 2 },
+                { "word": "the cinema", "answer": "", "mean": "sinema", "index": 3 },
+                { "word": "tonight", "answer": "", "mean": "bu akşam", "index": 4 }
             ],
             "subject": ["present_continuous"]
             },
