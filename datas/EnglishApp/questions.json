@@ -487,57 +487,183 @@
                 "subject": ["present_continuous"]
             },
             {
-                "id": 2,
-                "sentence": [
-                    { "word": "Why", "answer": "", "mean": "Neden", "index": 0 },
-                    { "word": "your brother", "answer": "is your brother", "mean": "kardeşin", "index": 1 },
-                    { "word": "not", "answer": "", "mean": "değil", "index": 2 },
-                    { "word": "go", "answer": "going", "mean": "gitmek", "index": 3 },
-                    { "word": "to college", "answer": "", "mean": "üniversiteye", "index": 4 },
-                    { "word": "?", "answer": "", "index": 5 }
-                ],
-                "subject": ["present_continuous"]
+            "id": 2,
+            "sentence": [
+                { "word": "Why", "answer": "", "mean": "Neden", "index": 0 },
+                { "word": "your brother", "answer": "is your brother", "mean": "kardeşin", "index": 1 },
+                { "word": "not", "answer": "", "mean": "değil", "index": 2 },
+                { "word": "go", "answer": "going", "mean": "gitmek", "index": 3 },
+                { "word": "to college", "answer": "", "mean": "üniversiteye", "index": 4 },
+                { "word": "?", "answer": "", "index": 5 }
+            ],
+            "subject": ["present_continuous"]
             },
             {
-                "id": 3,
-                "sentence": [
-                    { "word": "Which", "answer": "", "mean": "Hangi", "index": 0 },
-                    { "word": "instrument", "answer": "", "mean": "enstrüman", "index": 1 },
-                    { "word": "you", "answer": "are you", "mean": "sen", "index": 2 },
-                    { "word": "play", "answer": "playing", "mean": "çalmak", "index": 3 },
-                    { "word": "at", "answer": "", "mean": "de", "index": 4 },
-                    { "word": "the school", "answer": "", "mean": "okulda", "index": 5 },
-                    { "word": "musical", "answer": "", "mean": "müzik", "index": 6 },
-                    { "word": "?", "answer": "", "index": 7 }
-                ],
-                "subject": ["present_continuous"]
+            "id": 3,
+            "sentence": [
+                { "word": "Which", "answer": "", "mean": "Hangi", "index": 0 },
+                { "word": "instrument", "answer": "", "mean": "enstrüman", "index": 1 },
+                { "word": "you", "answer": "are you", "mean": "sen", "index": 2 },
+                { "word": "play", "answer": "playing", "mean": "çalmak", "index": 3 },
+                { "word": "at", "answer": "", "mean": "de", "index": 4 },
+                { "word": "the school", "answer": "", "mean": "okulda", "index": 5 },
+                { "word": "musical", "answer": "", "mean": "müzik", "index": 6 },
+                { "word": "?", "answer": "", "index": 7 }
+            ],
+            "subject": ["present_continuous"]
             },
             {
-                "id": 4,
-                "sentence": [
-                    { "word": "Where", "answer": "", "mean": "Nerede", "index": 0 },
-                    { "word": "Stephen", "answer": "is Stephen", "mean": "Stephen", "index": 1 },
-                    { "word": "go", "answer": "going", "mean": "gitmek", "index": 2 },
-                    { "word": "for shopping", "answer": "", "mean": "alışveriş için", "index": 3 },
-                    { "word": "tomorrow", "answer": "", "mean": "yarın", "index": 4 },
-                    { "word": "morning", "answer": "", "mean": "sabah", "index": 5 },
-                    { "word": "?", "answer": "", "index": 6 }
-                ],
-                "subject": ["present_continuous"]
+            "id": 4,
+            "sentence": [
+                { "word": "Where", "answer": "", "mean": "Nerede", "index": 0 },
+                { "word": "Stephen", "answer": "is Stephen", "mean": "Stephen", "index": 1 },
+                { "word": "go", "answer": "going", "mean": "gitmek", "index": 2 },
+                { "word": "for shopping", "answer": "", "mean": "alışveriş için", "index": 3 },
+                { "word": "tomorrow", "answer": "", "mean": "yarın", "index": 4 },
+                { "word": "morning", "answer": "", "mean": "sabah", "index": 5 },
+                { "word": "?", "answer": "", "index": 6 }
+            ],
+            "subject": ["present_continuous"]
             },
             {
-                "id": 5,
-                "sentence": [
-                    { "word": "Why", "answer": "", "mean": "Neden", "index": 0 },
-                    { "word": "he", "answer": "is he", "mean": "o", "index": 1 },
-                    { "word": "play", "answer": "playing", "mean": "oynamak", "index": 2 },
-                    { "word": "computer games", "answer": "", "mean": "bilgisayar oyunları", "index": 3 },
-                    { "word": "now", "answer": "", "mean": "şimdi", "index": 4 },
-                    { "word": "?", "answer": "", "index": 5 }
-                ],
-                "subject": ["present_continuous"]
+            "id": 5,
+            "sentence": [
+                { "word": "Why", "answer": "", "mean": "Neden", "index": 0 },
+                { "word": "he", "answer": "is he", "mean": "o", "index": 1 },
+                { "word": "play", "answer": "playing", "mean": "oynamak", "index": 2 },
+                { "word": "computer games", "answer": "", "mean": "bilgisayar oyunları", "index": 3 },
+                { "word": "now", "answer": "", "mean": "şimdi", "index": 4 },
+                { "word": "?", "answer": "", "index": 5 }
+            ],
+            "subject": ["present_continuous"]
+            },
+            {
+            "id": 6,
+            "sentence": [
+                { "word": "He", "answer": "does he", "mean": "o", "index": 0 },
+                { "word": "usually", "answer": "", "mean": "genellikle", "index": 1 },
+                { "word": "eat", "answer": "", "mean": "yemek", "index": 2 },
+                { "word": "breakfast", "answer": "", "mean": "kahvaltı", "index": 3 },
+                { "word": "at", "answer": "", "mean": "de", "index": 4 },
+                { "word": "7 am", "answer": "", "mean": "saat 7'de", "index": 5 },
+                { "word": "?", "answer": "", "index": 6 }
+            ],
+            "subject": ["simple_present"]
+            },
+            {
+            "id": 7,
+            "sentence": [
+                { "word": "Does", "answer": "", "mean": "Yapar mı", "index": 0 },
+                { "word": "he", "answer": "", "mean": "o", "index": 1 },
+                { "word": "drive", "answer": "", "mean": "sürmek", "index": 2 },
+                { "word": "to", "answer": "", "mean": "ile", "index": 3 },
+                { "word": "work", "answer": "", "mean": "iş", "index": 4 },
+                { "word": "every day", "answer": "", "mean": "her gün", "index": 5 },
+                { "word": "?", "answer": "", "index": 6 }
+            ],
+            "subject": ["simple_present"]
+            },
+            {
+            "id": 8,
+            "sentence": [
+                { "word": "Are", "answer": "Are", "mean": "mı", "index": 0 },
+                { "word": "they", "answer": "they", "mean": "onlar", "index": 1 },
+                { "word": "studying", "answer": "studying", "mean": "ders çalışmak", "index": 2 },
+                { "word": "at", "answer": "", "mean": "de", "index": 3 },
+                { "word": "the library", "answer": "", "mean": "kütüphane", "index": 4 },
+                { "word": "?", "answer": "", "index": 5 }
+            ],
+            "subject": ["present_continuous"]
+            },
+            {
+            "id": 9,
+            "sentence": [
+                { "word": "What", "answer": "", "mean": "Ne", "index": 0 },
+                { "word": "time", "answer": "", "mean": "zaman", "index": 1 },
+                { "word": "do", "answer": "", "mean": "yapar", "index": 2 },
+                { "word": "they", "answer": "", "mean": "onlar", "index": 3 },
+                { "word": "usually", "answer": "", "mean": "genellikle", "index": 4 },
+                { "word": "get up", "answer": "", "mean": "kalkmak", "index": 5 },
+                { "word": "?", "answer": "", "index": 6 }
+            ],
+            "subject": ["simple_present"]
+            },
+            {
+            "id": 10,
+            "sentence": [
+                { "word": "Does", "answer": "", "mean": "Yapar mı", "index": 0 },
+                { "word": "she", "answer": "", "mean": "o", "index": 1 },
+                { "word": "like", "answer": "", "mean": "sevmek", "index": 2 },
+                { "word": "to read", "answer": "", "mean": "okumak", "index": 3 },
+                { "word": "novels", "answer": "", "mean": "romanlar", "index": 4 },
+                { "word": "?", "answer": "", "index": 5 }
+            ],
+            "subject": ["simple_present"]
+            },
+            {
+            "id": 11,
+            "sentence": [
+                { "word": "Is", "answer": "", "mean": "mı", "index": 0 },
+                { "word": "he", "answer": "he", "mean": "o", "index": 1 },
+                { "word": "taking", "answer": "taking", "mean": "almak", "index": 2 },
+                { "word": "an", "answer": "", "mean": "bir", "index": 3 },
+                { "word": "umbrella", "answer": "", "mean": "şemsiye", "index": 4 },
+                { "word": "to work", "answer": "", "mean": "işe", "index": 5 },
+                { "word": "?", "answer": "", "index": 6 }
+            ],
+            "subject": ["present_continuous"]
+            },
+            {
+            "id": 12,
+            "sentence": [
+                { "word": "Do", "answer": "", "mean": "Yapar mı", "index": 0 },
+                { "word": "they", "answer": "", "mean": "onlar", "index": 1 },
+                { "word": "usually", "answer": "", "mean": "genellikle", "index": 2 },
+                { "word": "play", "answer": "", "mean": "oynamak", "index": 3 },
+                { "word": "tennis", "answer": "", "mean": "tenis", "index": 4 },
+                { "word": "on Sundays", "answer": "", "mean": "Pazar günleri", "index": 5 },
+                { "word": "?", "answer": "", "index": 6 }
+            ],
+            "subject": ["simple_present"]
+            },
+            {
+            "id": 13,
+            "sentence": [
+                { "word": "When", "answer": "", "mean": "Ne zaman", "index": 0 },
+                { "word": "do", "answer": "", "mean": "yapar", "index": 1 },
+                { "word": "you", "answer": "", "mean": "sen", "index": 2 },
+                { "word": "usually", "answer": "", "mean": "genellikle", "index": 3 },
+                { "word": "take", "answer": "", "mean": "almak", "index": 4 },
+                { "word": "a break", "answer": "", "mean": "ara vermek", "index": 5 },
+                { "word": "?", "answer": "", "index": 6 }
+            ],
+            "subject": ["simple_present"]
+            },
+            {
+            "id": 14,
+            "sentence": [
+                { "word": "Are", "answer": "Are", "mean": "mı", "index": 0 },
+                { "word": "they", "answer": "they", "mean": "onlar", "index": 1 },
+                { "word": "going", "answer": "going", "mean": "gitmek", "index": 2 },
+                { "word": "to", "answer": "", "mean": "ile", "index": 3 },
+                { "word": "the movies", "answer": "", "mean": "sinema", "index": 4 },
+                { "word": "tonight", "answer": "", "mean": "bu akşam", "index": 5 },
+                { "word": "?", "answer": "", "index": 6 }
+            ],
+            "subject": ["present_continuous"]
+            },
+            {
+            "id": 15,
+            "sentence": [
+                { "word": "What", "answer": "", "mean": "Ne", "index": 0 },
+                { "word": "are", "answer": "are", "mean": "mı", "index": 1 },
+                { "word": "you", "answer": "you", "mean": "sen", "index": 2 },
+                { "word": "doing", "answer": "doing", "mean": "yapmak", "index": 3 },
+                { "word": "this evening", "answer": "", "mean": "bu akşam", "index": 4 },
+                { "word": "?", "answer": "", "index": 5 }
+            ],
+            "subject": ["present_continuous"]
             }
         ]
-        
     }
 ]
