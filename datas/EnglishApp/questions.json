@@ -645,11 +645,10 @@
             "id": 15,
             "sentence": [
                 { "word": "What", "answer": "", "mean": "Ne", "index": 0 },
-                { "word": "are", "answer": "are", "mean": "mı", "index": 1 },
-                { "word": "you", "answer": "you", "mean": "sen", "index": 2 },
-                { "word": "doing", "answer": "doing", "mean": "yapmak", "index": 3 },
-                { "word": "this evening", "answer": "", "mean": "bu akşam", "index": 4 },
-                { "word": "?", "answer": "", "index": 5 }
+                { "word": "are", "answer": "are you", "mean": "sen", "index": 1 },
+                { "word": "do", "answer": "doing", "mean": "yapmak", "index": 2 },
+                { "word": "this evening", "answer": "", "mean": "bu akşam", "index": 3 },
+                { "word": "?", "answer": "", "index": 4 }
             ],
             "subject": ["present_continuous"]
             }
