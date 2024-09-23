@@ -72,42 +72,376 @@
                 ]                
             }
         ]
-    }
-    /*,
+    },
     {
         "id": 2,
-        "name": "Finances",
-        "color": [72, 89, 87]
+        "name": "At Work",
+        "color": [72, 89, 87],
+        "questions": [
+            {
+                "header": "Grammar",
+                "contents": [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "grammar",
+                        "question": "Complete the sentences with the Simple Present or the Present Continuous Tense using the verbs in brackets.",
+                        "subject": ["present_perfect_(with for/since)", "present_perfect_vs_simple_past"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "grammar",
+                        "question": "Choose the correct answer.",
+                        "subject": ["present_continuous", "simple_present"]
+                    },
+                    {
+                        "header": "Sentence Reordering",
+                        "type": "sentence_reordering",
+                        "branch":  "grammar",
+                        "question": "Put the words in the correct order to make sentences.",
+                        "subject": ["present_continuous"]
+                    }
+                ],
+                "notebook": [
+                    {
+                        "header": "Simple Present Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Simple Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>*{margin:0;padding:0;box-sizing:border-box;}body{font-family:Arial,sans-serif;line-height:1.6;background-color:#f9f9f9;padding:20px;}.container{max-width:800px;margin:0 auto;background-color:#fff;padding:20px;border:1px solid #ddd;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.1);}h1,h2{color:#2c3e50;text-align:center;}h3{color:#34495e;margin-top:20px;}h4{color:#7f8c8d;margin-top:15px;}ul{margin-top:10px;padding-left:20px;}ul li{margin-bottom:10px;}.frequency-chart{display:flex;align-items:center;position:relative;margin-top:20px;padding:0 10px;}.frequency-chart-inner{display:flex;flex-direction:column;align-items:center;position:relative;}.frequency-chart-inner p{margin-bottom:5px;}.arrow{transform:translateX(-50%);height:100px;border-left:2px solid #2c3e50;}.arrow:before{content:'ᐱ';position:absolute;top:-20px;left:-10px;font-size:24px;}.frequency-chart-inner + .frequency-chart-inner{margin-left:20px;}</style></head><body><div class='container'><h1>Present Simple</h1><h2>Usage</h2><h3>Permanent Situations / Things that are always true:</h3><ul><li>Turkey is bigger than England.</li><li>I am a doctor.</li></ul><h3>Routines & Frequency & Things that happen repeatedly:</h3><ul><li>I shop online two or three times a month.</li><li>The Olympic games happen every four years.</li></ul><h3>Programmes and timetables (for the future):</h3><ul><li>The meeting starts at 10 a.m. tomorrow.</li></ul><h3>Adverbs of Frequency</h3><p>We often use adverbs of frequency with this tense to say how often things happen, or how often we do things.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We place these adverbs before the main verb:</h4><p>I usually go shopping at the weekend.</p><h4>But, we place these adverbs after the verb 'to be':</h4><p>I am often late to work.</p><h3>Time Phrases</h3><p>We also often use the following time expressions with this tense.</p><ul><li>Once a week / month / year</li><li>Weekly / monthly / yearly</li><li>Twice a week / month / year</li><li>Three/four times a week / month / year</li><li>Every day / Saturday / weekend / year</li><li>All the time</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Present Continuous Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Continuous Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } h4 { color: #7f8c8d; margin-top: 15px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; } .frequency-chart { display: flex; align-items: center; position: relative; margin-top: 20px; padding: 0 10px; } .frequency-chart-inner { display: flex; flex-direction: column; align-items: center; position: relative; } .frequency-chart-inner p { margin-bottom: 5px; } .arrow { transform: translateX(-50%); height: 100px; border-left: 2px solid #2c3e50; } .arrow:before { content: 'ᐱ'; position: absolute; top: -20px; left: -10px; font-size: 24px; } .frequency-chart-inner + .frequency-chart-inner { margin-left: 20px; }</style></head><body><div class='container'><h1>Present Continuous</h1><h2>Usage</h2><h3>Actions Happening Now:</h3><ul><li>She is studying at the moment.</li><li>They are playing football right now.</li></ul><h3>Temporary Situations:</h3><ul><li>I am staying with a friend while my house is being renovated.</li><li>He is working on a new project this week.</li></ul><h3>Changing Situations:</h3><ul><li>The climate is getting warmer.</li><li>People are becoming more health-conscious.</li></ul><h3>Future Plans:</h3><ul><li>We are meeting them for dinner tomorrow.</li><li>I am going to the cinema next weekend.</li></ul><h3>Adverbs of Frequency with Present Continuous</h3><p>Adverbs of frequency can also be used with the present continuous tense to describe how often an action is occurring.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We use these adverbs to describe how often something is happening:</h4><p>She is always talking about her new job.</p><h4>Time Phrases</h4><p>Common time expressions used with the present continuous include:</p><ul><li>Now</li><li>At the moment</li><li>Right now</li><li>This week / month / year</li><li>Currently</li><li>Today</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Stative Verbs",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Stative Verbs</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; }</style></head><body><div class='container'><h1>Stative Verbs (Durum Fiilleri)</h1><h2>Thinking Verbs</h2><p>Verbs like 'think,' 'believe,' and 'understand' are not usually used in continuous tenses.</p><p>Example: 'I think she is right.'</p><h2>Feeling Verbs</h2><p>Verbs like 'love,' 'hate,' and 'want' usually do not take continuous forms.</p><p>Example: 'I love chocolate.'</p><h2>Sense Verbs</h2><p>Verbs related to the senses (smell, hear, taste, etc.) are often stative.</p><p>Example: 'This soup tastes great.'</p><h2>Exceptions</h2><p>Some stative verbs can be used in continuous form when their meaning changes.</p><p>Example: 'I am thinking of buying a car.' (Planning, not just having a thought)</p></div></body></html>"
+                    }
+                ]
+            },
+            {
+                "header": "Vocabulary",
+                "contents": 
+                [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "vocabulary",
+                        "question": "Complete the sentences by using the words below.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "vocabulary",
+                        "question": "Choose the correct answer.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Match the Words",
+                        "type": "match_the_words",
+                        "branch":  "vocabulary",
+                        "question": "Match the words with their collections.",
+                        "subject": ["shopping"]
+                    }
+                ]                
+            }
+        ]
     },
     {
         "id": 3,
-        "name": "Books and Films",
-        "color": [136, 97, 68]
+        "name": "The Environment",
+        "color": [136, 97, 68],
+        "questions": [
+            {
+                "header": "Grammar",
+                "contents": [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "grammar",
+                        "question": "Complete the sentences with the Simple Present or the Present Continuous Tense using the verbs in brackets.",
+                        "subject": ["present_perfect_(with for/since)", "present_perfect_vs_simple_past"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "grammar",
+                        "question": "Choose the correct answer.",
+                        "subject": ["present_continuous", "simple_present"]
+                    },
+                    {
+                        "header": "Sentence Reordering",
+                        "type": "sentence_reordering",
+                        "branch":  "grammar",
+                        "question": "Put the words in the correct order to make sentences.",
+                        "subject": ["present_continuous"]
+                    }
+                ],
+                "notebook": [
+                    {
+                        "header": "Simple Present Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Simple Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>*{margin:0;padding:0;box-sizing:border-box;}body{font-family:Arial,sans-serif;line-height:1.6;background-color:#f9f9f9;padding:20px;}.container{max-width:800px;margin:0 auto;background-color:#fff;padding:20px;border:1px solid #ddd;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.1);}h1,h2{color:#2c3e50;text-align:center;}h3{color:#34495e;margin-top:20px;}h4{color:#7f8c8d;margin-top:15px;}ul{margin-top:10px;padding-left:20px;}ul li{margin-bottom:10px;}.frequency-chart{display:flex;align-items:center;position:relative;margin-top:20px;padding:0 10px;}.frequency-chart-inner{display:flex;flex-direction:column;align-items:center;position:relative;}.frequency-chart-inner p{margin-bottom:5px;}.arrow{transform:translateX(-50%);height:100px;border-left:2px solid #2c3e50;}.arrow:before{content:'ᐱ';position:absolute;top:-20px;left:-10px;font-size:24px;}.frequency-chart-inner + .frequency-chart-inner{margin-left:20px;}</style></head><body><div class='container'><h1>Present Simple</h1><h2>Usage</h2><h3>Permanent Situations / Things that are always true:</h3><ul><li>Turkey is bigger than England.</li><li>I am a doctor.</li></ul><h3>Routines & Frequency & Things that happen repeatedly:</h3><ul><li>I shop online two or three times a month.</li><li>The Olympic games happen every four years.</li></ul><h3>Programmes and timetables (for the future):</h3><ul><li>The meeting starts at 10 a.m. tomorrow.</li></ul><h3>Adverbs of Frequency</h3><p>We often use adverbs of frequency with this tense to say how often things happen, or how often we do things.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We place these adverbs before the main verb:</h4><p>I usually go shopping at the weekend.</p><h4>But, we place these adverbs after the verb 'to be':</h4><p>I am often late to work.</p><h3>Time Phrases</h3><p>We also often use the following time expressions with this tense.</p><ul><li>Once a week / month / year</li><li>Weekly / monthly / yearly</li><li>Twice a week / month / year</li><li>Three/four times a week / month / year</li><li>Every day / Saturday / weekend / year</li><li>All the time</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Present Continuous Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Continuous Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } h4 { color: #7f8c8d; margin-top: 15px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; } .frequency-chart { display: flex; align-items: center; position: relative; margin-top: 20px; padding: 0 10px; } .frequency-chart-inner { display: flex; flex-direction: column; align-items: center; position: relative; } .frequency-chart-inner p { margin-bottom: 5px; } .arrow { transform: translateX(-50%); height: 100px; border-left: 2px solid #2c3e50; } .arrow:before { content: 'ᐱ'; position: absolute; top: -20px; left: -10px; font-size: 24px; } .frequency-chart-inner + .frequency-chart-inner { margin-left: 20px; }</style></head><body><div class='container'><h1>Present Continuous</h1><h2>Usage</h2><h3>Actions Happening Now:</h3><ul><li>She is studying at the moment.</li><li>They are playing football right now.</li></ul><h3>Temporary Situations:</h3><ul><li>I am staying with a friend while my house is being renovated.</li><li>He is working on a new project this week.</li></ul><h3>Changing Situations:</h3><ul><li>The climate is getting warmer.</li><li>People are becoming more health-conscious.</li></ul><h3>Future Plans:</h3><ul><li>We are meeting them for dinner tomorrow.</li><li>I am going to the cinema next weekend.</li></ul><h3>Adverbs of Frequency with Present Continuous</h3><p>Adverbs of frequency can also be used with the present continuous tense to describe how often an action is occurring.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We use these adverbs to describe how often something is happening:</h4><p>She is always talking about her new job.</p><h4>Time Phrases</h4><p>Common time expressions used with the present continuous include:</p><ul><li>Now</li><li>At the moment</li><li>Right now</li><li>This week / month / year</li><li>Currently</li><li>Today</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Stative Verbs",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Stative Verbs</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; }</style></head><body><div class='container'><h1>Stative Verbs (Durum Fiilleri)</h1><h2>Thinking Verbs</h2><p>Verbs like 'think,' 'believe,' and 'understand' are not usually used in continuous tenses.</p><p>Example: 'I think she is right.'</p><h2>Feeling Verbs</h2><p>Verbs like 'love,' 'hate,' and 'want' usually do not take continuous forms.</p><p>Example: 'I love chocolate.'</p><h2>Sense Verbs</h2><p>Verbs related to the senses (smell, hear, taste, etc.) are often stative.</p><p>Example: 'This soup tastes great.'</p><h2>Exceptions</h2><p>Some stative verbs can be used in continuous form when their meaning changes.</p><p>Example: 'I am thinking of buying a car.' (Planning, not just having a thought)</p></div></body></html>"
+                    }
+                ]
+            },
+            {
+                "header": "Vocabulary",
+                "contents": 
+                [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "vocabulary",
+                        "question": "Complete the sentences by using the words below.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "vocabulary",
+                        "question": "Choose the correct answer.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Match the Words",
+                        "type": "match_the_words",
+                        "branch":  "vocabulary",
+                        "question": "Match the words with their collections.",
+                        "subject": ["shopping"]
+                    }
+                ]                
+            }
+        ]
     },
     {
         "id": 4,
-        "name": "Travel",
-        "color": [93, 113, 96]
+        "name": "Technology in Daily Life",
+        "color": [93, 113, 96],
+        "questions": [
+            {
+                "header": "Grammar",
+                "contents": [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "grammar",
+                        "question": "Complete the sentences with the Simple Present or the Present Continuous Tense using the verbs in brackets.",
+                        "subject": ["present_perfect_(with for/since)", "present_perfect_vs_simple_past"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "grammar",
+                        "question": "Choose the correct answer.",
+                        "subject": ["present_continuous", "simple_present"]
+                    },
+                    {
+                        "header": "Sentence Reordering",
+                        "type": "sentence_reordering",
+                        "branch":  "grammar",
+                        "question": "Put the words in the correct order to make sentences.",
+                        "subject": ["present_continuous"]
+                    }
+                ],
+                "notebook": [
+                    {
+                        "header": "Simple Present Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Simple Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>*{margin:0;padding:0;box-sizing:border-box;}body{font-family:Arial,sans-serif;line-height:1.6;background-color:#f9f9f9;padding:20px;}.container{max-width:800px;margin:0 auto;background-color:#fff;padding:20px;border:1px solid #ddd;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.1);}h1,h2{color:#2c3e50;text-align:center;}h3{color:#34495e;margin-top:20px;}h4{color:#7f8c8d;margin-top:15px;}ul{margin-top:10px;padding-left:20px;}ul li{margin-bottom:10px;}.frequency-chart{display:flex;align-items:center;position:relative;margin-top:20px;padding:0 10px;}.frequency-chart-inner{display:flex;flex-direction:column;align-items:center;position:relative;}.frequency-chart-inner p{margin-bottom:5px;}.arrow{transform:translateX(-50%);height:100px;border-left:2px solid #2c3e50;}.arrow:before{content:'ᐱ';position:absolute;top:-20px;left:-10px;font-size:24px;}.frequency-chart-inner + .frequency-chart-inner{margin-left:20px;}</style></head><body><div class='container'><h1>Present Simple</h1><h2>Usage</h2><h3>Permanent Situations / Things that are always true:</h3><ul><li>Turkey is bigger than England.</li><li>I am a doctor.</li></ul><h3>Routines & Frequency & Things that happen repeatedly:</h3><ul><li>I shop online two or three times a month.</li><li>The Olympic games happen every four years.</li></ul><h3>Programmes and timetables (for the future):</h3><ul><li>The meeting starts at 10 a.m. tomorrow.</li></ul><h3>Adverbs of Frequency</h3><p>We often use adverbs of frequency with this tense to say how often things happen, or how often we do things.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We place these adverbs before the main verb:</h4><p>I usually go shopping at the weekend.</p><h4>But, we place these adverbs after the verb 'to be':</h4><p>I am often late to work.</p><h3>Time Phrases</h3><p>We also often use the following time expressions with this tense.</p><ul><li>Once a week / month / year</li><li>Weekly / monthly / yearly</li><li>Twice a week / month / year</li><li>Three/four times a week / month / year</li><li>Every day / Saturday / weekend / year</li><li>All the time</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Present Continuous Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Continuous Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } h4 { color: #7f8c8d; margin-top: 15px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; } .frequency-chart { display: flex; align-items: center; position: relative; margin-top: 20px; padding: 0 10px; } .frequency-chart-inner { display: flex; flex-direction: column; align-items: center; position: relative; } .frequency-chart-inner p { margin-bottom: 5px; } .arrow { transform: translateX(-50%); height: 100px; border-left: 2px solid #2c3e50; } .arrow:before { content: 'ᐱ'; position: absolute; top: -20px; left: -10px; font-size: 24px; } .frequency-chart-inner + .frequency-chart-inner { margin-left: 20px; }</style></head><body><div class='container'><h1>Present Continuous</h1><h2>Usage</h2><h3>Actions Happening Now:</h3><ul><li>She is studying at the moment.</li><li>They are playing football right now.</li></ul><h3>Temporary Situations:</h3><ul><li>I am staying with a friend while my house is being renovated.</li><li>He is working on a new project this week.</li></ul><h3>Changing Situations:</h3><ul><li>The climate is getting warmer.</li><li>People are becoming more health-conscious.</li></ul><h3>Future Plans:</h3><ul><li>We are meeting them for dinner tomorrow.</li><li>I am going to the cinema next weekend.</li></ul><h3>Adverbs of Frequency with Present Continuous</h3><p>Adverbs of frequency can also be used with the present continuous tense to describe how often an action is occurring.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We use these adverbs to describe how often something is happening:</h4><p>She is always talking about her new job.</p><h4>Time Phrases</h4><p>Common time expressions used with the present continuous include:</p><ul><li>Now</li><li>At the moment</li><li>Right now</li><li>This week / month / year</li><li>Currently</li><li>Today</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Stative Verbs",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Stative Verbs</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; }</style></head><body><div class='container'><h1>Stative Verbs (Durum Fiilleri)</h1><h2>Thinking Verbs</h2><p>Verbs like 'think,' 'believe,' and 'understand' are not usually used in continuous tenses.</p><p>Example: 'I think she is right.'</p><h2>Feeling Verbs</h2><p>Verbs like 'love,' 'hate,' and 'want' usually do not take continuous forms.</p><p>Example: 'I love chocolate.'</p><h2>Sense Verbs</h2><p>Verbs related to the senses (smell, hear, taste, etc.) are often stative.</p><p>Example: 'This soup tastes great.'</p><h2>Exceptions</h2><p>Some stative verbs can be used in continuous form when their meaning changes.</p><p>Example: 'I am thinking of buying a car.' (Planning, not just having a thought)</p></div></body></html>"
+                    }
+                ]
+            },
+            {
+                "header": "Vocabulary",
+                "contents": 
+                [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "vocabulary",
+                        "question": "Complete the sentences by using the words below.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "vocabulary",
+                        "question": "Choose the correct answer.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Match the Words",
+                        "type": "match_the_words",
+                        "branch":  "vocabulary",
+                        "question": "Match the words with their collections.",
+                        "subject": ["shopping"]
+                    }
+                ]                
+            }
+        ]
     },
     {
         "id": 5,
-        "name": "Health",
-        "color": [233, 140, 109]
+        "name": "Health and Lifestyle",
+        "color": [233, 140, 109],
+        "questions": [
+            {
+                "header": "Grammar",
+                "contents": [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "grammar",
+                        "question": "Complete the sentences with the Simple Present or the Present Continuous Tense using the verbs in brackets.",
+                        "subject": ["present_perfect_(with for/since)", "present_perfect_vs_simple_past"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "grammar",
+                        "question": "Choose the correct answer.",
+                        "subject": ["present_continuous", "simple_present"]
+                    },
+                    {
+                        "header": "Sentence Reordering",
+                        "type": "sentence_reordering",
+                        "branch":  "grammar",
+                        "question": "Put the words in the correct order to make sentences.",
+                        "subject": ["present_continuous"]
+                    }
+                ],
+                "notebook": [
+                    {
+                        "header": "Simple Present Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Simple Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>*{margin:0;padding:0;box-sizing:border-box;}body{font-family:Arial,sans-serif;line-height:1.6;background-color:#f9f9f9;padding:20px;}.container{max-width:800px;margin:0 auto;background-color:#fff;padding:20px;border:1px solid #ddd;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.1);}h1,h2{color:#2c3e50;text-align:center;}h3{color:#34495e;margin-top:20px;}h4{color:#7f8c8d;margin-top:15px;}ul{margin-top:10px;padding-left:20px;}ul li{margin-bottom:10px;}.frequency-chart{display:flex;align-items:center;position:relative;margin-top:20px;padding:0 10px;}.frequency-chart-inner{display:flex;flex-direction:column;align-items:center;position:relative;}.frequency-chart-inner p{margin-bottom:5px;}.arrow{transform:translateX(-50%);height:100px;border-left:2px solid #2c3e50;}.arrow:before{content:'ᐱ';position:absolute;top:-20px;left:-10px;font-size:24px;}.frequency-chart-inner + .frequency-chart-inner{margin-left:20px;}</style></head><body><div class='container'><h1>Present Simple</h1><h2>Usage</h2><h3>Permanent Situations / Things that are always true:</h3><ul><li>Turkey is bigger than England.</li><li>I am a doctor.</li></ul><h3>Routines & Frequency & Things that happen repeatedly:</h3><ul><li>I shop online two or three times a month.</li><li>The Olympic games happen every four years.</li></ul><h3>Programmes and timetables (for the future):</h3><ul><li>The meeting starts at 10 a.m. tomorrow.</li></ul><h3>Adverbs of Frequency</h3><p>We often use adverbs of frequency with this tense to say how often things happen, or how often we do things.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We place these adverbs before the main verb:</h4><p>I usually go shopping at the weekend.</p><h4>But, we place these adverbs after the verb 'to be':</h4><p>I am often late to work.</p><h3>Time Phrases</h3><p>We also often use the following time expressions with this tense.</p><ul><li>Once a week / month / year</li><li>Weekly / monthly / yearly</li><li>Twice a week / month / year</li><li>Three/four times a week / month / year</li><li>Every day / Saturday / weekend / year</li><li>All the time</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Present Continuous Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Continuous Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } h4 { color: #7f8c8d; margin-top: 15px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; } .frequency-chart { display: flex; align-items: center; position: relative; margin-top: 20px; padding: 0 10px; } .frequency-chart-inner { display: flex; flex-direction: column; align-items: center; position: relative; } .frequency-chart-inner p { margin-bottom: 5px; } .arrow { transform: translateX(-50%); height: 100px; border-left: 2px solid #2c3e50; } .arrow:before { content: 'ᐱ'; position: absolute; top: -20px; left: -10px; font-size: 24px; } .frequency-chart-inner + .frequency-chart-inner { margin-left: 20px; }</style></head><body><div class='container'><h1>Present Continuous</h1><h2>Usage</h2><h3>Actions Happening Now:</h3><ul><li>She is studying at the moment.</li><li>They are playing football right now.</li></ul><h3>Temporary Situations:</h3><ul><li>I am staying with a friend while my house is being renovated.</li><li>He is working on a new project this week.</li></ul><h3>Changing Situations:</h3><ul><li>The climate is getting warmer.</li><li>People are becoming more health-conscious.</li></ul><h3>Future Plans:</h3><ul><li>We are meeting them for dinner tomorrow.</li><li>I am going to the cinema next weekend.</li></ul><h3>Adverbs of Frequency with Present Continuous</h3><p>Adverbs of frequency can also be used with the present continuous tense to describe how often an action is occurring.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We use these adverbs to describe how often something is happening:</h4><p>She is always talking about her new job.</p><h4>Time Phrases</h4><p>Common time expressions used with the present continuous include:</p><ul><li>Now</li><li>At the moment</li><li>Right now</li><li>This week / month / year</li><li>Currently</li><li>Today</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Stative Verbs",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Stative Verbs</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; }</style></head><body><div class='container'><h1>Stative Verbs (Durum Fiilleri)</h1><h2>Thinking Verbs</h2><p>Verbs like 'think,' 'believe,' and 'understand' are not usually used in continuous tenses.</p><p>Example: 'I think she is right.'</p><h2>Feeling Verbs</h2><p>Verbs like 'love,' 'hate,' and 'want' usually do not take continuous forms.</p><p>Example: 'I love chocolate.'</p><h2>Sense Verbs</h2><p>Verbs related to the senses (smell, hear, taste, etc.) are often stative.</p><p>Example: 'This soup tastes great.'</p><h2>Exceptions</h2><p>Some stative verbs can be used in continuous form when their meaning changes.</p><p>Example: 'I am thinking of buying a car.' (Planning, not just having a thought)</p></div></body></html>"
+                    }
+                ]
+            },
+            {
+                "header": "Vocabulary",
+                "contents": 
+                [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "vocabulary",
+                        "question": "Complete the sentences by using the words below.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "vocabulary",
+                        "question": "Choose the correct answer.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Match the Words",
+                        "type": "match_the_words",
+                        "branch":  "vocabulary",
+                        "question": "Match the words with their collections.",
+                        "subject": ["shopping"]
+                    }
+                ]                
+            }
+        ]
     },
     {
         "id": 6,
-        "name": "Food and Drink",
-        "color": [199, 145, 46]
-    },
-    {
-        "id": 7,
-        "name": "Communication",
-        "color": [49, 78, 62]
-    },
-    {
-        "id": 8,
-        "name": "Global Issues",
-        "color": [166, 54, 55]
+        "name": "Education and Learning",
+        "color": [199, 145, 46],
+        "questions": [
+            {
+                "header": "Grammar",
+                "contents": [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "grammar",
+                        "question": "Complete the sentences with the Simple Present or the Present Continuous Tense using the verbs in brackets.",
+                        "subject": ["present_perfect_(with for/since)", "present_perfect_vs_simple_past"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "grammar",
+                        "question": "Choose the correct answer.",
+                        "subject": ["present_continuous", "simple_present"]
+                    },
+                    {
+                        "header": "Sentence Reordering",
+                        "type": "sentence_reordering",
+                        "branch":  "grammar",
+                        "question": "Put the words in the correct order to make sentences.",
+                        "subject": ["present_continuous"]
+                    }
+                ],
+                "notebook": [
+                    {
+                        "header": "Simple Present Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Simple Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>*{margin:0;padding:0;box-sizing:border-box;}body{font-family:Arial,sans-serif;line-height:1.6;background-color:#f9f9f9;padding:20px;}.container{max-width:800px;margin:0 auto;background-color:#fff;padding:20px;border:1px solid #ddd;border-radius:8px;box-shadow:0 0 10px rgba(0,0,0,0.1);}h1,h2{color:#2c3e50;text-align:center;}h3{color:#34495e;margin-top:20px;}h4{color:#7f8c8d;margin-top:15px;}ul{margin-top:10px;padding-left:20px;}ul li{margin-bottom:10px;}.frequency-chart{display:flex;align-items:center;position:relative;margin-top:20px;padding:0 10px;}.frequency-chart-inner{display:flex;flex-direction:column;align-items:center;position:relative;}.frequency-chart-inner p{margin-bottom:5px;}.arrow{transform:translateX(-50%);height:100px;border-left:2px solid #2c3e50;}.arrow:before{content:'ᐱ';position:absolute;top:-20px;left:-10px;font-size:24px;}.frequency-chart-inner + .frequency-chart-inner{margin-left:20px;}</style></head><body><div class='container'><h1>Present Simple</h1><h2>Usage</h2><h3>Permanent Situations / Things that are always true:</h3><ul><li>Turkey is bigger than England.</li><li>I am a doctor.</li></ul><h3>Routines & Frequency & Things that happen repeatedly:</h3><ul><li>I shop online two or three times a month.</li><li>The Olympic games happen every four years.</li></ul><h3>Programmes and timetables (for the future):</h3><ul><li>The meeting starts at 10 a.m. tomorrow.</li></ul><h3>Adverbs of Frequency</h3><p>We often use adverbs of frequency with this tense to say how often things happen, or how often we do things.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We place these adverbs before the main verb:</h4><p>I usually go shopping at the weekend.</p><h4>But, we place these adverbs after the verb 'to be':</h4><p>I am often late to work.</p><h3>Time Phrases</h3><p>We also often use the following time expressions with this tense.</p><ul><li>Once a week / month / year</li><li>Weekly / monthly / yearly</li><li>Twice a week / month / year</li><li>Three/four times a week / month / year</li><li>Every day / Saturday / weekend / year</li><li>All the time</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Present Continuous Tense",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Present Continuous Usage</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } h4 { color: #7f8c8d; margin-top: 15px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; } .frequency-chart { display: flex; align-items: center; position: relative; margin-top: 20px; padding: 0 10px; } .frequency-chart-inner { display: flex; flex-direction: column; align-items: center; position: relative; } .frequency-chart-inner p { margin-bottom: 5px; } .arrow { transform: translateX(-50%); height: 100px; border-left: 2px solid #2c3e50; } .arrow:before { content: 'ᐱ'; position: absolute; top: -20px; left: -10px; font-size: 24px; } .frequency-chart-inner + .frequency-chart-inner { margin-left: 20px; }</style></head><body><div class='container'><h1>Present Continuous</h1><h2>Usage</h2><h3>Actions Happening Now:</h3><ul><li>She is studying at the moment.</li><li>They are playing football right now.</li></ul><h3>Temporary Situations:</h3><ul><li>I am staying with a friend while my house is being renovated.</li><li>He is working on a new project this week.</li></ul><h3>Changing Situations:</h3><ul><li>The climate is getting warmer.</li><li>People are becoming more health-conscious.</li></ul><h3>Future Plans:</h3><ul><li>We are meeting them for dinner tomorrow.</li><li>I am going to the cinema next weekend.</li></ul><h3>Adverbs of Frequency with Present Continuous</h3><p>Adverbs of frequency can also be used with the present continuous tense to describe how often an action is occurring.</p><div class='frequency-chart'><div class='frequency-chart-inner'><p>100%</p><div class='arrow'></div><p>0%</p></div><div class='frequency-chart-inner'><p>Always</p><p>Often / Frequently / Regularly</p><p>Sometimes</p><p>Rarely / Occasionally</p><p>Never</p></div></div><h4>We use these adverbs to describe how often something is happening:</h4><p>She is always talking about her new job.</p><h4>Time Phrases</h4><p>Common time expressions used with the present continuous include:</p><ul><li>Now</li><li>At the moment</li><li>Right now</li><li>This week / month / year</li><li>Currently</li><li>Today</li></ul></div></body></html>"
+                    },
+                    {
+                        "header": "Stative Verbs",
+                        "content": "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Stative Verbs</title><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'><style>* { margin: 0; padding: 0; box-sizing: border-box; } body { font-family: Arial, sans-serif; line-height: 1.6; background-color: #f9f9f9; padding: 20px; } .container { max-width: 800px; margin: 0 auto; background-color: #fff; padding: 20px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } h1, h2 { color: #2c3e50; text-align: center; } h3 { color: #34495e; margin-top: 20px; } ul { margin-top: 10px; padding-left: 20px; } ul li { margin-bottom: 10px; }</style></head><body><div class='container'><h1>Stative Verbs (Durum Fiilleri)</h1><h2>Thinking Verbs</h2><p>Verbs like 'think,' 'believe,' and 'understand' are not usually used in continuous tenses.</p><p>Example: 'I think she is right.'</p><h2>Feeling Verbs</h2><p>Verbs like 'love,' 'hate,' and 'want' usually do not take continuous forms.</p><p>Example: 'I love chocolate.'</p><h2>Sense Verbs</h2><p>Verbs related to the senses (smell, hear, taste, etc.) are often stative.</p><p>Example: 'This soup tastes great.'</p><h2>Exceptions</h2><p>Some stative verbs can be used in continuous form when their meaning changes.</p><p>Example: 'I am thinking of buying a car.' (Planning, not just having a thought)</p></div></body></html>"
+                    }
+                ]
+            },
+            {
+                "header": "Vocabulary",
+                "contents": 
+                [
+                    {
+                        "header": "Fill in the Blanks",
+                        "type": "sentence_completion",
+                        "branch":  "vocabulary",
+                        "question": "Complete the sentences by using the words below.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Choose the Correct Word",
+                        "type": "choose_correct_word",
+                        "branch":  "vocabulary",
+                        "question": "Choose the correct answer.",
+                        "subject": ["shopping"]
+                    },
+                    {
+                        "header": "Match the Words",
+                        "type": "match_the_words",
+                        "branch":  "vocabulary",
+                        "question": "Match the words with their collections.",
+                        "subject": ["shopping"]
+                    }
+                ]                
+            }
+        ]
     }
-        */
+   
 ]
